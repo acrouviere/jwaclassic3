@@ -104,6 +104,7 @@ All parts of the car have been dismantled, down to the last nut. Each of them ha
 
 # History
 
+
 ## A few words about the Delahaye 135M model and Chapron coachbuilder
 <figure style="width: 400px" class="align-right">
   <img src="/assets/images/p-delahaye-135m-chapron/history-delahaye-135m-chapron-003.jpg" alt="" />
