@@ -1,4 +1,4 @@
-jpg---
+---
 layout: splash # archive
 permalink: /la-collection/rochet-schneider-26-six/
 title: "Rochet Schneider 26 Six"
