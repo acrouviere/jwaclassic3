@@ -24,7 +24,7 @@ feature_row_collec1:
   url: '/la-collection/delage-d8-120-chapron/'
   btn_label: "More"
   btn_class: "btn--inverse"
-- image_path: /assets/images/p-delahaye-135M-chapron/collection-delahaye-135M-chapron.jpg
+- image_path: /assets/images/p-delahaye-135m-chapron/collection-delahaye-135m-chapron.jpg
   title : "Delahaye 135-M Chapron"
   excerpt: "1948 - Cabriolet Grand Luxe Type 135-M"
   url: '/la-collection/delahaye-135m-chapron/'
