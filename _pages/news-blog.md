@@ -1,6 +1,6 @@
 ---
 layout: categories #tags #categories #posts
-entries_layout: grid #list
+entries_layout: list #grid #list
 author_profile: true
 permalink: /news-blogs/
 title: "News and Blogs"
@@ -20,4 +20,3 @@ header:
 
 
 ---
-## Latest posts from our blogs
