@@ -18,7 +18,7 @@ header:
 feature_row_1:
  - image_path: /assets/images/20170520_170024.jpg
    title : "Welcome text"
-   excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+   excerpt: "Coucou Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
    url: "/la-collection/"
    btn_label: "La Collection"
    btn_class: "btn--inverse"
