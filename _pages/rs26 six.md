@@ -1,4 +1,4 @@
----
+jpg---
 layout: splash # archive
 permalink: /la-collection/rochet-schneider-26-six/
 title: "Rochet Schneider 26 Six"
@@ -21,23 +21,23 @@ gallery:
   image_path: /assets/images/p-rochet-scheider-26-six/gallery-th-rochet-schneider-26-six-000.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-001.JPG
+- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-001.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/gallery-th-rochet-schneider-26-six-001.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-002.JPG
+- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-002.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/gallery-th-rochet-schneider-26-six-002.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-003.JPG
+- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-003.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/gallery-th-rochet-schneider-26-six-003.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-004.JPG
+- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-004.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/gallery-th-rochet-schneider-26-six-004.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-005.JPG
+- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-005.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/gallery-th-rochet-schneider-26-six-005.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
@@ -48,39 +48,39 @@ gallery_restoration:
   image_path: /assets/images/p-rochet-scheider-26-six/restoration-th-rochet-schneider-26-six-000.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-001.JPG
+- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-001.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/restoration-th-rochet-schneider-26-six-001.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-002.JPG
+- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-002.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/restoration-th-rochet-schneider-26-six-002.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-003.JPG
+- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-003.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/restoration-th-rochet-schneider-26-six-003.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-004.JPG
+- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-004.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/restoration-th-rochet-schneider-26-six-004.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-005.JPG
+- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-005.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/restoration-th-rochet-schneider-26-six-005.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-006.JPG
+- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-006.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/restoration-th-rochet-schneider-26-six-006.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-007.JPG
+- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-007.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/restoration-th-rochet-schneider-26-six-007.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-009.JPG
+- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-009.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/restoration-th-rochet-schneider-26-six-009.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
-- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-010.JPG
+- url: /assets/images/p-rochet-scheider-26-six/restoration-rochet-schneider-26-six-010.jpg
   image_path: /assets/images/p-rochet-scheider-26-six/restoration-th-rochet-schneider-26-six-010.jpg
   title: Rochet-Schneider 26-Six
   image_caption: Rochet-Schneider 26-Six
