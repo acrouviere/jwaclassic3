@@ -1,6 +1,6 @@
 ---
 layout: category # archive splash single post category
-taxonomy: category2 # category name
+taxonomy: latest-news # category name
 permalink: /news-blog-test2/
 title: "JWA Classic"
 excerpt: "Just the cars we love"
