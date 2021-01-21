@@ -1,5 +1,5 @@
 ---
-layout: home # splash
+layout: splash # splash home
 entries_layout: grid #grid #list
 author_profile: false
 classes: wide
@@ -30,10 +30,15 @@ feature_row_1:
 feature_row_2:
  - image_path: /assets/images/posts/image1.jpeg
    title : "Extrait du dernier post"
-   excerpt: "Voir comment automatiser un extrait du dernier post des blogs, on pourra le faire à la main dans un 1er temps"
-   url: '/delage-d8-120-chapron/'
+   excerpt: "On pourrait mettre un extrait du dernier post, mais ça devra se faire à la main et ça deviendra vite lourd...<br>
+   sinon, on peut faire une mise en page comme [ici](/news-blog-test2/)"
+   url: '/latest-news/category3/RS26six-postessai6/'
    btn_label: "More"
    btn_class: "btn--inverse"
 
 ---
+# Welcome
 {% include feature_row id="feature_row_1" type="right" %}
+
+# Latest post from our blog
+{% include feature_row id="feature_row_2" type="left" %}
