@@ -1,22 +1,21 @@
 ---
 title: "Rochet-Shchneider 26 six - Un post pour voir"
-excerpt: "jfqlksjfd sldjkfqlsdjfl lsdjflqsjf"
+excerpt: "2020, Nov. 16th - post essai mlsdfjqsld ldjf qmslkdjf  mlsdkfjqsmldfj smlmdkdkfj sqmld mlsdkkfj qsl lsdjf sqldkkj lskdkfj q"
+#excerpt_separator: <!--more-->
 categories:
-  - Rochet-Schneider 26 six
-  - Restoration
+  - category1
+  - category2
 tags:
 - Chapron
-
+share: true
 header:
   teaser: /assets/images/posts/gallery-rochet-schneider-26-six-7.jpg
 
 classes: wide
-#header:
-#  teaser: /assets/images/posts/Gouache_Vedette-1946.jpg
 
 #thumbnail: /assets/images/posts/Gouache_Vedette-1946.jpg
 
-#excerpt_separator: <!--more-->
+
 
 gallery_3:
   - url: /assets/images/posts/gallery-rochet-schneider-26-six-7.jpg
