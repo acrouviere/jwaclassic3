@@ -1,5 +1,5 @@
 ---
-layout: categories #tags #categories #posts
+layout: archive #tags #categories #posts
 entries_layout: list #grid #list
 author_profile: true
 permalink: /news-blogs/
