@@ -3,7 +3,7 @@ title: "Rochet-Shchneider 26 six - Un 3e post pour voir"
 excerpt: "2020, Nov. 18th - Post essai 3 lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 #excerpt_separator: <!--more-->
 categories:
-  - category3
+  - latest-news
   - category2
 tags:
 - Chapron

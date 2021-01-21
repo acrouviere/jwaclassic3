@@ -3,7 +3,7 @@ title: "Rochet-Shchneider 26 six - Un post pour voir"
 excerpt: "2020, Nov. 16th - post essai mlsdfjqsld ldjf qmslkdjf  mlsdkfjqsmldfj smlmdkdkfj sqmld mlsdkkfj qsl lsdjf sqldkkj lskdkfj q"
 #excerpt_separator: <!--more-->
 categories:
-  - category1
+  - latest-news
   - category2
 tags:
 - Chapron

@@ -1,5 +1,9 @@
 ---
-layout: splash # archive
+layout: home # splash
+entries_layout: grid #grid #list
+author_profile: false
+classes: wide
+
 permalink: /
 title: "JWA Classic"
 excerpt: "Just the cars we love"
@@ -31,48 +35,5 @@ feature_row_2:
    btn_label: "More"
    btn_class: "btn--inverse"
 
-feature_row_3:
- - image_path: /assets/images/thb-delahaye-type-235-235m-breitling.jpg
-   title : "Delahaye 235 Breitling"
-   excerpt: "Delahaye 235 Breitling - 19XX"
-   url: "/delahaye-235-breitling/"
-   btn_label: "More"
-   btn_class: "btn--inverse"
-
-feature_row_4:
-- image_path: /assets/images/thb-aston-martin-international-cadbury.jpg
-  title : "Aston Martin"
-  excerpt: "Aston Martin International - 19XX"
-  url: "/aston-martin-international-cadbury/"
-  btn_label: "More"
-  btn_class: "btn--inverse"
-
-feature_row_5:
-- image_path: /assets/images/thb-delahaye-type-135-135M-chapron.jpg
-  title : "Delahaye 135-M Chapron"
-  excerpt: "Delahaye 135-M Chapron - 19XX"
-  url: '/delahaye-135-135M-chapron/'
-  btn_label: "More"
-  btn_class: "btn--inverse"
-
-feature_row_6:
-- image_path: /assets/images/thb-alfa-romeo-giulietta-sprint-speciale-1300-ss.jpg
-  title : "Alfa Romeo Giulietta Sprint Speciale"
-  excerpt: "Alfa Romeo 1300 Sprint Speciale - 1962"
-  url: "/alfa-romeo-giulietta-sprint-speciale-1300-ss/"
-  btn_label: "More"
-  btn_class: "btn--inverse"
-
-
-
-
-#{% include feature_row id="feature_row1" type="right" %}
-
 ---
-
-
-
 {% include feature_row id="feature_row_1" type="right" %}
-
-
-{% include feature_row id="feature_row_2"  type="left" %}
