@@ -1,5 +1,5 @@
 
-Consult website at : https://pascal-winter.github.io/jwaclassic-new/
+Consult website at : dev.jwaclassic.com
 
 This Website is generated using [**Jekyll Static Website Generator**](https://jekyllrb.com/docs/) and [**Minimal Mistakes**](https://mmistakes.github.io/minimal-mistakes/) theme.
 
